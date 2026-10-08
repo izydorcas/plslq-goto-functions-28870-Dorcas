@@ -1,0 +1,43 @@
+Oracle SQL Developer / Data Modeler
+
+.sqldeveloper/
+1.dmd
+2.rpt
+3.xml.bak
+
+TOAD for Oracle
+
+1.toad
+2.tgt
+3.dtr
+
+JetBrains / DataGrip / CLion / VS Code
+
+.idea/
+.vscode/
+.code-workspace
+
+Operating System Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Temporary and Log files
+
+.log
+.tmp
+.bak
+.swp
+
+
+SQL Execution outputs / Spool files
+
+.spl
+.spool
+.out
+
+Node / Environment (in case local tools are used)
+
+node_modules/
+.env
